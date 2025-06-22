@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @laraibgul1119
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning 2 semester of software Engineering. 
-- 💞️ I’m looking to collaborate on c++ project. 
+- 🌱 I’m a student of Software Engineering.
+💞️ I’m looking to collaborate on c++ project. 
 - 📫 How to reach me through linkedin, github and email id laraibgulzar1119@gmail.com.
 - 😄 Pronouns: she.
 - ⚡ Fun fact: Interested in coding.
