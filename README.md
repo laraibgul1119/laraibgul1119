@@ -19,10 +19,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/laraibgulzar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laraibgulzar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/laraib-gulzar-9a293b361/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laraibgulzar" height="30" width="40" /></a>
 <a href="https://kaggle.com/laraibgulzar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="laraibgulzar" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/laraibgulzar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="laraibgulzar" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/laraibgulwv63/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/laraibgulwv63/" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/laraibgulwv63/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/laraibgulwv63/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
