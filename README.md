@@ -16,6 +16,18 @@
 - 💬 Ask me about **C++, C, python, html and css.**
 
 - 📫 How to reach me **laraibgulzar1119@gmail.con**
+- ### 🌱 **What I’m Working On**
+- Advanced backend projects in Python and C++
+- Exploring Assembly for performance-critical applications
+- Contributing to open source & collaborating with fellow developers
+
+---
+
+### ✨ **Motto**
+> _"Become Unstoppable"_  
+Continuous improvement, endless curiosity, and unbreakable resilience.
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
