@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laraibgul1119" alt="laraibgul1119" /></a> </p>
 
-- 🌱 I’m currently learning **Python, CS50X and custom Gpt development.**
+- 🌱 I’m always learning **The new Things**. Eager to built myown things.
 
 - 👯 I’m looking to collaborate on **open source and my own projects.**
 
