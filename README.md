@@ -90,12 +90,5 @@
 
 ---
 
-💡 Pro tips to make it pop even more (I can do these for you)
-- Replace project GIF placeholders with short demo GIFs (I can make them).  
-- Add a short testimonial quote or user feedback card under each featured project.  
-- Include a short video intro (hosted on your site or YouTube) and embed a thumbnail GIF here.  
-- Add custom SVG badges (role-specific) or a dynamic "Available for hire" badge for recruiters.
 
----
-
-Made with ✨ + ☕ — want me to commit this file to your profile repo (github.com/laraibgul1119/laraibgul1119)? I can push it and then open the repo README for preview so you can confirm — or I can first swap the project GIFs with custom captures if you prefer.
+Made with ✨ + ☕ 
