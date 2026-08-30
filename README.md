@@ -68,11 +68,11 @@
 
 📊 GitHub vibes
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laraibgul1119&show_icons=true&theme=radical&count_private=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laraibgul1119&layout=compact&theme=radical" alt="Top languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=laraibgul1119&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=laraibgul1119&layout=compact&theme=radical&langs_count=8" alt="Top languages" />
 </p>
 
-![activity graph](https://activity-graph.herokuapp.com/graph?username=laraibgul1119&theme=github)
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=laraibgul1119&theme=github-dark&hide_border=true)
 
 ---
 
