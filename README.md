@@ -3,7 +3,7 @@
 ![hero-confetti](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=600&color=%2300FFB3&center=true&vCenter=true&width=900&height=60&lines=Passionate+%26+Unstoppable+Learner+and+Executor;AI+%2B+Full-Stack+Developer;Building+AI-enabled+apps+for+education+%26+health" alt="typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=600&color=%2300FFB3&center=true&vCenter=true&width=900&height=60&lines=Passionate+%26+Unstoppable+Learner;AI+%2B+Full-Stack+Builder;Shipping+useful+products+fast" alt="typing svg" />
 </p>
 
 <p align="center">
@@ -72,7 +72,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laraibgul1119&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
-![activity graph](https://activity-graph.herokuapp.com/graph?username=laraibgul1119&theme=github)
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=laraibgul1119&theme=github)
 
 ---
 
@@ -89,6 +89,5 @@
 </p>
 
 ---
-
 
 Made with ✨ + ☕ 
